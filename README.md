@@ -40,13 +40,13 @@
   - Oracle Silver Fellow
   - ORACLE MASTER Silver
 - Microsoft Azure認定資格
-  - [Azure Solutions Architect Expert](https://www.credly.com/badges89b4f6ff-f697-4ce8-98c6-355c99cc120c/public_url)
-  - [DevOps Engineer Expert](https://www.credly.com/badges/25f5c3cb-8437-4083-88c0-866857ab161apublic_url)
-  - [Azure Security Engineer Associatet](https://www.credly.com/badges8f55ea1f-71d1-4c1e-b854-388f5e8f0aea/public_url)
-  - [Azure Network Engineer Associatet](https://www.credly.com/badges052c1788-f352-4757-92e0-39199d742943/public_url)
-  - [Azure Developer Associatet](https://www.credly.com/badgesc911c125-bbfc-4487-9077-083d1c547418/public_url)
-  - [Azure Administrator Associatet](https://www.credly.com/badges51386df4-c25f-45b2-ad22-934f57e6cc8c/public_url)
-  - [Azure Fundamentalst](https://www.credly.com/badges/18482743-510a-4c47-b4e6-ede3bc5101a5public_url)
+  - [Azure Solutions Architect Expert](https://www.credly.com/badges/89b4f6ff-f697-4ce8-98c6-355c99cc120c/public_url)
+  - [DevOps Engineer Expert](https://www.credly.com/badges/25f5c3cb-8437-4083-88c0-866857ab161a/public_url)
+  - [Azure Security Engineer Associate](https://www.credly.com/badges/8f55ea1f-71d1-4c1e-b854-388f5e8f0aea/public_url)
+  - [Azure Network Engineer Associate](https://www.credly.com/badges/052c1788-f352-4757-92e0-39199d742943/public_url)
+  - [Azure Developer Associate](https://www.credly.com/badges/c911c125-bbfc-4487-9077-083d1c547418/public_url)
+  - [Azure Administrator Associate](https://www.credly.com/badges/51386df4-c25f-45b2-ad22-934f57e6cc8c/public_url)
+  - [Azure Fundamentals](https://www.credly.com/badges/18482743-510a-4c47-b4e6-ede3bc5101a5/public_url)
 
 ---
 
