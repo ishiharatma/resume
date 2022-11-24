@@ -5,8 +5,8 @@
 ## 各種アカウント
 
 <p>
-  <a href="https://github.com/ishiharatma"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub|%20ishiharatma-181717?logo=github&style=flat&logoColor=white"></a>
-  <a href="https://zenn.dev/issy"><img alt="Zenn" src="https://img.shields.io/badge/-Zenn|%20issy-3EA8FF?logo=Zenn&style=flat&logoColor=white"></a>
+  <a href="https://github.com/ishiharatma" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub|%20ishiharatma-181717?logo=github&style=flat&logoColor=white"></a>
+  <a href="https://zenn.dev/issy" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/-Zenn|%20issy-3EA8FF?logo=Zenn&style=flat&logoColor=white"></a>
   <!--<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&style=flat&logoColor=white">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=flat&logoColor=white">-->
 </p>
@@ -30,23 +30,23 @@
   - 応用情報技術者試験
   - 基本情報技術者試験
 - AWS認定
-  - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url)
-  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url)
+  - <a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank">AWS Certified Solutions Architect – Professional</a>
+  - <a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank">AWS Certified Solutions Architect – Associate</a>
 - Oracle
-  - [Oracle Cloud Infrastructure Foundations 2021 Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A64358C41C39B4C58D7E1DABEBE8D4C37E2D5FD3EE83D03E952D0A9301657B1)
+  - <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A64358C41C39B4C58D7E1DABEBE8D4C37E2D5FD3EE83D03E952D0A9301657B1" target="_blank">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a>
   - ORACLE MASTER Gold Oracle Database 10g
   - ORACLE MASTER Silver Oracle Database 10g
   - ORACLE MASTER Bronze Oracle Database 10g
   - Oracle Silver Fellow
   - ORACLE MASTER Silver
 - Microsoft Azure認定資格
-  - [Azure Solutions Architect Expert](https://www.credly.com/badges/89b4f6ff-f697-4ce8-98c6-355c99cc120c/public_url)
-  - [DevOps Engineer Expert](https://www.credly.com/badges/25f5c3cb-8437-4083-88c0-866857ab161a/public_url)
-  - [Azure Security Engineer Associate](https://www.credly.com/badges/8f55ea1f-71d1-4c1e-b854-388f5e8f0aea/public_url)
-  - [Azure Network Engineer Associate](https://www.credly.com/badges/052c1788-f352-4757-92e0-39199d742943/public_url)
-  - [Azure Developer Associate](https://www.credly.com/badges/c911c125-bbfc-4487-9077-083d1c547418/public_url)
-  - [Azure Administrator Associate](https://www.credly.com/badges/51386df4-c25f-45b2-ad22-934f57e6cc8c/public_url)
-  - [Azure Fundamentals](https://www.credly.com/badges/18482743-510a-4c47-b4e6-ede3bc5101a5/public_url)
+  - <a href="https://www.credly.com/badges/89b4f6ff-f697-4ce8-98c6-355c99cc120c/public_url" target="_blank">Azure Solutions Architect Expert</a>
+  - <a href="https://www.credly.com/badges/25f5c3cb-8437-4083-88c0-866857ab161a/public_url" target="_blank">DevOps Engineer Expert</a>
+  - <a href="https://www.credly.com/badges/8f55ea1f-71d1-4c1e-b854-388f5e8f0aea/public_url" target="_blank">Azure Security Engineer Associate</a>
+  - <a href="https://www.credly.com/badges/052c1788-f352-4757-92e0-39199d742943/public_url" target="_blank">Azure Network Engineer Associate</a>
+  - <a href="https://www.credly.com/badges/c911c125-bbfc-4487-9077-083d1c547418/public_url" target="_blank">Azure Developer Associate</a>
+  - <a href="https://www.credly.com/badges/51386df4-c25f-45b2-ad22-934f57e6cc8c/public_url" target="_blank">Azure Administrator Associate</a>
+  - <a href="https://www.credly.com/badges/18482743-510a-4c47-b4e6-ede3bc5101a5/public_url" target="_blank">Azure Fundamentals</a>
 
 ---
 
