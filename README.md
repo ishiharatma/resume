@@ -5,10 +5,10 @@
 ## 各種アカウント
 
 <p>
-  <img alt="Zenn" src="https://img.shields.io/badge/-Zenn-3EA8FF?logo=Zenn&style=flat&logoColor=white">
-  <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&style=flat&logoColor=white">
-  <a href="https://github.com/ishiharatma"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat&logoColor=white"></a>
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=flat&logoColor=white">
+  <a href="https://github.com/ishiharatma"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub|%20ishiharatma-181717?logo=github&style=flat&logoColor=white"></a>
+  <a href="https://zenn.dev/issy"><img alt="Zenn" src="https://img.shields.io/badge/-Zenn|%20issy-3EA8FF?logo=Zenn&style=flat&logoColor=white"></a>
+  <!--<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&style=flat&logoColor=white">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=flat&logoColor=white">-->
 </p>
 
 ---
@@ -105,6 +105,15 @@
 
 ---
 
-## その他
+## 技術記事投稿
+
+- **Zenn**
+  - [https://zenn.dev/issy](https://zenn.dev/issy)
 
 - [AWS 勉強会資料公開](https://ishiharatma.github.io/aws-study/)
+
+---
+
+## その他
+
+
