@@ -1,5 +1,7 @@
 # 職務経歴書
 
+<a href="https://ishiharatma.github.io/resume/">Goto GitHub Pages</a>
+
 ---
 
 ## 各種アカウント
@@ -32,6 +34,7 @@
 - AWS認定
   - <a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank">AWS Certified Solutions Architect – Professional</a>
   - <a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank">AWS Certified Solutions Architect – Associate</a>
+  - <a href="https://www.credly.com/badges/5e92182e-b71e-43ab-9b76-e020df40d0e9/public_url" target="_blank">AWS Certified Cloud Practitioner</a>
 - Oracle
   - <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A64358C41C39B4C58D7E1DABEBE8D4C37E2D5FD3EE83D03E952D0A9301657B1" target="_blank">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a>
   - ORACLE MASTER Gold Oracle Database 10g
