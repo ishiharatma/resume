@@ -19,6 +19,7 @@
 
 - Amazon Web Services(AWS) を活用した小～中規模のシステム設計
 - AWS CDK および AWS CloudFormation を使用した Infrastructure as Code（IaC） による環境構築の自動化
+- データモデリング
 - データベースのパフォーマンスチューニング
 - 勉強会、社内学習のコミュニティ形成
 
@@ -26,6 +27,7 @@
 
 ## 保有資格
 
+- 普通自動車第一種運転免許
 - 情報処理技術者試験
   - ネットワークスペシャリスト試験
   - データベーススペシャリスト試験
@@ -60,6 +62,15 @@
 
 ## 技術スタック
 
+### OS
+
+<p>
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />
+</p>
+
+
 ### 言語
 
 <p>
@@ -77,10 +88,20 @@
 
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="OCI" src="https://img.shields.io/badge/-OracleCloud-F8000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="OCI" src="https://img.shields.io/badge/-OracleCloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
+</p>
+
+### データベース
+
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL-aws&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL-aws&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle-aws&logoColor=white" />
+  <img alt="Apache Solr" src="https://img.shields.io/badge/-Apache%20Solr-D9411E?style=flat-square&logo=Apache%20Solr-aws&logoColor=white" />
 </p>
 
 ### フレームワーク・その他
+
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />
@@ -89,6 +110,7 @@
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&style=flat">
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&style=flat">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
 </p>
 
 ---
@@ -116,9 +138,13 @@
 ## 技術記事投稿
 
 - **Zenn**
-  - [https://zenn.dev/issy](https://zenn.dev/issy)
+  [![Followers](https://badgen.org/img/zenn/issy/followers?style=flat)](https://zenn.dev/issy)
 
 - [AWS 勉強会資料公開](https://ishiharatma.github.io/aws-study/)
+
+- GitHub
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiharatma&layout=compact)](https://github.com/ishiharatma/)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiharatma&show_icons=true)](https://github.com/ishiharatma/)
 
 ---
 
