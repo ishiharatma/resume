@@ -142,7 +142,8 @@
 
 - [AWS 勉強会資料公開](https://ishiharatma.github.io/aws-study/)
 
-- GitHub
+- **GitHub**
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiharatma&layout=compact)](https://github.com/ishiharatma/)
   [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiharatma&show_icons=true)](https://github.com/ishiharatma/)
 
