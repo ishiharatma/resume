@@ -17,11 +17,19 @@
 
 ## 保有スキル
 
-- Amazon Web Services(AWS) を活用した小～中規模のシステム設計
-- AWS CDK および AWS CloudFormation を使用した Infrastructure as Code（IaC） による環境構築の自動化
-- データモデリング
-- データベースのパフォーマンスチューニング
-- 勉強会、社内学習のコミュニティ形成
+- プロジェクト運営の能力
+  - 職種や技術領域をまたいだ、全体最適を目指した問題解決とプロジェクト推進
+  - Backlog / Redmine を用いたタスクの効率的な管理と、Slack / Teams などによるスムーズな非同期コミュニケーション
+- 上流工程の経験
+  - 現行システムの調査分析、要件定義、移行計画書の作成（変更仕様の確定）
+- 開発経験
+  - Amazon Web Services(AWS) を活用した小～中規模のWebアプリケーションシステムの設計
+  - AWS CDK および AWS CloudFormation を使用した Infrastructure as Code（IaC） による環境構築の自動化
+  - AWS CodeCommit, CodePipeline, CodeBuild, CodeDeploy を用いた CI/CD 環境の構築、メンテナンス
+  - 本番環境における Docker の経験
+  - PostgreSQL, MySQL 等の RDB の設計、パフォーマンス改善、管理
+- その他
+  - 勉強会、社内学習のコミュニティ形成
 
 ---
 
@@ -94,10 +102,11 @@
 ### データベース
 
 <p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL-aws&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL-aws&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle-aws&logoColor=white" />
-  <img alt="Apache Solr" src="https://img.shields.io/badge/-Apache%20Solr-D9411E?style=flat-square&logo=Apache%20Solr-aws&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white" />
+  <img alt="Apache Solr" src="https://img.shields.io/badge/-Apache%20Solr-D9411E?style=flat-square&logo=Apache%20Solr&logoColor=white" />
 </p>
 
 ### フレームワーク・その他
