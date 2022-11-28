@@ -138,7 +138,8 @@
 ## 技術記事投稿
 
 - **Zenn**
-  [![Followers](https://badgen.org/img/zenn/issy/followers?style=flat)](https://zenn.dev/issy)
+
+  [![Followers](https://badgen.org/img/zenn/issy/followers?style=flat)](https://zenn.dev/issy)[![Articles](https://badgen.org/img/zenn/issy/articles?style=plastic)](https://zenn.dev/issy)[![Books](https://badgen.org/img/zenn/issy/books?style=plastic)](https://zenn.dev/issy?tab=books)
 
 - [AWS 勉強会資料公開](https://ishiharatma.github.io/aws-study/)
 
