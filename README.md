@@ -4,6 +4,13 @@
 
 ---
 
+## 基本情報
+
+| key      | value      |
+|----------|------------|
+| Name     | Ishihara   |
+| Birthday | 1979/09/29 |
+
 ## 各種アカウント
 
 <p>
@@ -19,7 +26,7 @@
 
 - プロジェクト運営の能力
   - 職種や技術領域をまたいだ、全体最適を目指した問題解決とプロジェクト推進
-  - Backlog / Redmine を用いたタスクの効率的な管理と、Slack / Teams などによるスムーズな非同期コミュニケーション
+  - Backlog / Redmine を用いたタスクの効率的な管理と、Slack / Teams などによるチーム内、顧客とのスムーズな非同期コミュニケーション
 - 上流工程の経験
   - 現行システムの調査分析、要件定義、移行計画書の作成（変更仕様の確定）
 - 開発経験
@@ -27,7 +34,7 @@
   - AWS CDK および AWS CloudFormation を使用した Infrastructure as Code（IaC） による環境構築の自動化
   - AWS CodeCommit, CodePipeline, CodeBuild, CodeDeploy を用いた CI/CD 環境の構築、メンテナンス
   - 本番環境における Docker の経験
-  - PostgreSQL, MySQL 等の RDB の設計、パフォーマンス改善、管理
+  - PostgreSQL, MySQL、Oracle 等の RDB の設計、パフォーマンス改善、管理
 - その他
   - 勉強会、社内学習のコミュニティ形成
 
@@ -44,9 +51,12 @@
 - AWS認定
   - <a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank">AWS Certified Solutions Architect – Professional</a>
   - <a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank">AWS Certified Solutions Architect – Associate</a>
+  - <a href="https://www.credly.com/badges/fa1caa18-e8ea-415e-8d76-4b2a35afe1c3/public_url" target="_blank">AWS Certified Developer – Associate</a>
   - <a href="https://www.credly.com/badges/5e92182e-b71e-43ab-9b76-e020df40d0e9/public_url" target="_blank">AWS Certified Cloud Practitioner</a>
 
-  ![](images/aws-certified-cloud-practitioner(90x90).png)![](images/aws-certified-solutions-architect-associate(90x90).png)![](images/aws-certified-solutions-architect-professional(90x90).png)
+  ![](/images/aws-certified-solutions-architect-professional(90x90).png)
+  ![](/images/aws-certified-solutions-architect-associate(90x90).png)![](images/aws-certified-developer-associate(90x90).png)
+  ![](/images/aws-certified-cloud-practitioner(90x90).png)
 
 - Oracle
   - <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A64358C41C39B4C58D7E1DABEBE8D4C37E2D5FD3EE83D03E952D0A9301657B1" target="_blank">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a>
@@ -64,7 +74,9 @@
   - <a href="https://www.credly.com/badges/51386df4-c25f-45b2-ad22-934f57e6cc8c/public_url" target="_blank">Azure Administrator Associate</a>
   - <a href="https://www.credly.com/badges/18482743-510a-4c47-b4e6-ede3bc5101a5/public_url" target="_blank">Azure Fundamentals</a>
 
-  ![](images/microsoft-certified-azure-fundamentals(90x90).png)![](images/microsoft-certified-azure-administrator-associate.2(90x90).png)![](images/microsoft-certified-azure-developer-associate.1(90x90).png)![](images/microsoft-certified-azure-network-engineer-associate(90x90).png)![](images/microsoft-certified-azure-security-engineer-associate(90x90).png)![](images/microsoft-certified-azure-solutions-architect-expert.1(90x90).png)![](images/microsoft-certified-devops-engineer-expert(90x90).png)
+  ![](/images/microsoft-certified-azure-solutions-architect-expert.1(90x90).png)![](/images/microsoft-certified-devops-engineer-expert(90x90).png)
+  ![](/images/microsoft-certified-azure-administrator-associate.2(90x90).png)![](/images/microsoft-certified-azure-developer-associate.1(90x90).png)![](/images/microsoft-certified-azure-network-engineer-associate(90x90).png)![](/images/microsoft-certified-azure-security-engineer-associate(90x90).png)
+  ![](/images/microsoft-certified-azure-fundamentals(90x90).png)
 
 ---
 
@@ -127,13 +139,9 @@
 
 ## 職務経歴詳細
 
-### xxxxx (2004/04～現在)
+### 株式会社NTTデータCCS (2004/04～現在)
 
-- XXXX
-  - **プロジェクト規模**
-  - **役割**
-  - **使用技術など**
-  - **プロジェクト詳細**
+TBA
 
 ---
 
