@@ -54,9 +54,9 @@
   - <a href="https://www.credly.com/badges/fa1caa18-e8ea-415e-8d76-4b2a35afe1c3/public_url" target="_blank">AWS Certified Developer – Associate</a>
   - <a href="https://www.credly.com/badges/5e92182e-b71e-43ab-9b76-e020df40d0e9/public_url" target="_blank">AWS Certified Cloud Practitioner</a>
 
-  ![](/images/aws-certified-solutions-architect-professional(90x90).png)
-  ![](/images/aws-certified-solutions-architect-associate(90x90).png)![](images/aws-certified-developer-associate(90x90).png)
-  ![](/images/aws-certified-cloud-practitioner(90x90).png)
+  ![](images/aws-certified-solutions-architect-professional(90x90).png)
+  ![](images/aws-certified-solutions-architect-associate(90x90).png)![](images/aws-certified-developer-associate(90x90).png)
+  ![](images/aws-certified-cloud-practitioner(90x90).png)
 
 - Oracle
   - <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A64358C41C39B4C58D7E1DABEBE8D4C37E2D5FD3EE83D03E952D0A9301657B1" target="_blank">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a>
@@ -74,9 +74,9 @@
   - <a href="https://www.credly.com/badges/51386df4-c25f-45b2-ad22-934f57e6cc8c/public_url" target="_blank">Azure Administrator Associate</a>
   - <a href="https://www.credly.com/badges/18482743-510a-4c47-b4e6-ede3bc5101a5/public_url" target="_blank">Azure Fundamentals</a>
 
-  ![](/images/microsoft-certified-azure-solutions-architect-expert.1(90x90).png)![](/images/microsoft-certified-devops-engineer-expert(90x90).png)
-  ![](/images/microsoft-certified-azure-administrator-associate.2(90x90).png)![](/images/microsoft-certified-azure-developer-associate.1(90x90).png)![](/images/microsoft-certified-azure-network-engineer-associate(90x90).png)![](/images/microsoft-certified-azure-security-engineer-associate(90x90).png)
-  ![](/images/microsoft-certified-azure-fundamentals(90x90).png)
+  ![](images/microsoft-certified-azure-solutions-architect-expert.1(90x90).png)![](images/microsoft-certified-devops-engineer-expert(90x90).png)
+  ![](images/microsoft-certified-azure-administrator-associate.2(90x90).png)![](images/microsoft-certified-azure-developer-associate.1(90x90).png)![](images/microsoft-certified-azure-network-engineer-associate(90x90).png)![](images/microsoft-certified-azure-security-engineer-associate(90x90).png)
+  ![](images/microsoft-certified-azure-fundamentals(90x90).png)
 
 ---
 
