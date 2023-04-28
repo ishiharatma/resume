@@ -51,11 +51,12 @@
 - AWS認定
   - <a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank">AWS Certified Solutions Architect – Professional</a>
   - <a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank">AWS Certified Solutions Architect – Associate</a>
+  - <a href="https://www.credly.com/badges/7d49f9af-18c3-4dde-853a-9ea33fd00d78/public_url" target="_blank">AWS Certified SysOps Administrator – Associate</a>
   - <a href="https://www.credly.com/badges/fa1caa18-e8ea-415e-8d76-4b2a35afe1c3/public_url" target="_blank">AWS Certified Developer – Associate</a>
   - <a href="https://www.credly.com/badges/5e92182e-b71e-43ab-9b76-e020df40d0e9/public_url" target="_blank">AWS Certified Cloud Practitioner</a>
 
   ![](images/aws-certified-solutions-architect-professional(90x90).png)
-  ![](images/aws-certified-solutions-architect-associate(90x90).png)![](images/aws-certified-developer-associate(90x90).png)
+  ![](images/aws-certified-solutions-architect-associate(90x90).png)![](images/aws-certified-sysops-administrator-associate(90x90).png)![](images/aws-certified-developer-associate(90x90).png)
   ![](images/aws-certified-cloud-practitioner(90x90).png)
 
 - Oracle
