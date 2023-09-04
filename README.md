@@ -44,37 +44,37 @@
 
 - 普通自動車第一種運転免許
 - 情報処理技術者試験
-  - ネットワークスペシャリスト試験
-  - データベーススペシャリスト試験
-  - 応用情報技術者試験
-  - 基本情報技術者試験
+  - ネットワークスペシャリスト試験 (December 11, 2015)
+  - データベーススペシャリスト試験 (June 20, 2014)
+  - 応用情報技術者試験 (June 15, 2012)
+  - 基本情報技術者試験 (November 19, 2002)
 - AWS認定
-  - <a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank">AWS Certified Solutions Architect – Professional</a>
-  - <a href="https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url" target="_blank">AWS Certified DevOps Engineer – Professional</a>
-  - <a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank">AWS Certified Solutions Architect – Associate</a>
-  - <a href="https://www.credly.com/badges/7d49f9af-18c3-4dde-853a-9ea33fd00d78/public_url" target="_blank">AWS Certified SysOps Administrator – Associate</a>
-  - <a href="https://www.credly.com/badges/fa1caa18-e8ea-415e-8d76-4b2a35afe1c3/public_url" target="_blank">AWS Certified Developer – Associate</a>
-  - <a href="https://www.credly.com/badges/5e92182e-b71e-43ab-9b76-e020df40d0e9/public_url" target="_blank">AWS Certified Cloud Practitioner</a>
+  - <a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank">AWS Certified Solutions Architect – Professional (October 26, 2022)</a>
+  - <a href="https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url" target="_blank">AWS Certified DevOps Engineer – Professional (May 31, 2023)</a>
+  - <a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank">AWS Certified Solutions Architect – Associate (August 24, 2022)</a>
+  - <a href="https://www.credly.com/badges/7d49f9af-18c3-4dde-853a-9ea33fd00d78/public_url" target="_blank">AWS Certified SysOps Administrator – Associate (April 27, 2023)</a>
+  - <a href="https://www.credly.com/badges/fa1caa18-e8ea-415e-8d76-4b2a35afe1c3/public_url" target="_blank">AWS Certified Developer – Associate (February 15, 2023)</a>
+  - <a href="https://www.credly.com/badges/5e92182e-b71e-43ab-9b76-e020df40d0e9/public_url" target="_blank">AWS Certified Cloud Practitioner (November 25, 2022)</a>
 
   ![](images/aws-certified-solutions-architect-professional(90x90).png)![](images/aws-certified-devops-engineer-professional(90x90).png)
   ![](images/aws-certified-solutions-architect-associate(90x90).png)![](images/aws-certified-sysops-administrator-associate(90x90).png)![](images/aws-certified-developer-associate(90x90).png)
   ![](images/aws-certified-cloud-practitioner(90x90).png)
 
 - Oracle
-  - <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A64358C41C39B4C58D7E1DABEBE8D4C37E2D5FD3EE83D03E952D0A9301657B1" target="_blank">Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a>
-  - ORACLE MASTER Gold Oracle Database 10g
-  - ORACLE MASTER Silver Oracle Database 10g
-  - ORACLE MASTER Bronze Oracle Database 10g
-  - Oracle Silver Fellow
+  - <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A64358C41C39B4C58D7E1DABEBE8D4C37E2D5FD3EE83D03E952D0A9301657B1" target="_blank">Oracle Cloud Infrastructure Foundations 2021 Certified Associate (March 29, 2022)</a>
+  - ORACLE MASTER Gold Oracle Database 10g (July 9, 2012)
+  - ORACLE MASTER Silver Oracle Database 10g (February 28, 2012)
+  - ORACLE MASTER Bronze Oracle Database 10g (December 9, 2011)
+  - Oracle Silver Fellow (December 1, 2004)
   - ORACLE MASTER Silver
 - Microsoft Azure認定資格
-  - <a href="https://www.credly.com/badges/89b4f6ff-f697-4ce8-98c6-355c99cc120c/public_url" target="_blank">Azure Solutions Architect Expert</a>
-  - <a href="https://www.credly.com/badges/25f5c3cb-8437-4083-88c0-866857ab161a/public_url" target="_blank">DevOps Engineer Expert</a>
-  - <a href="https://www.credly.com/badges/8f55ea1f-71d1-4c1e-b854-388f5e8f0aea/public_url" target="_blank">Azure Security Engineer Associate</a>
-  - <a href="https://www.credly.com/badges/052c1788-f352-4757-92e0-39199d742943/public_url" target="_blank">Azure Network Engineer Associate</a>
-  - <a href="https://www.credly.com/badges/c911c125-bbfc-4487-9077-083d1c547418/public_url" target="_blank">Azure Developer Associate</a>
-  - <a href="https://www.credly.com/badges/51386df4-c25f-45b2-ad22-934f57e6cc8c/public_url" target="_blank">Azure Administrator Associate</a>
-  - <a href="https://www.credly.com/badges/18482743-510a-4c47-b4e6-ede3bc5101a5/public_url" target="_blank">Azure Fundamentals</a>
+  - <a href="https://www.credly.com/badges/89b4f6ff-f697-4ce8-98c6-355c99cc120c/public_url" target="_blank">Azure Solutions Architect Expert (February 25, 2022)</a>
+  - <a href="https://www.credly.com/badges/25f5c3cb-8437-4083-88c0-866857ab161a/public_url" target="_blank">DevOps Engineer Expert (April 07, 2022)</a>
+  - <a href="https://www.credly.com/badges/8f55ea1f-71d1-4c1e-b854-388f5e8f0aea/public_url" target="_blank">Azure Security Engineer Associate (July 29, 2022)</a>
+  - <a href="https://www.credly.com/badges/052c1788-f352-4757-92e0-39199d742943/public_url" target="_blank">Azure Network Engineer Associate (July 15, 2022)</a>
+  - <a href="https://www.credly.com/badges/c911c125-bbfc-4487-9077-083d1c547418/public_url" target="_blank">Azure Developer Associate (March 10, 2022)</a>
+  - <a href="https://www.credly.com/badges/51386df4-c25f-45b2-ad22-934f57e6cc8c/public_url" target="_blank">Azure Administrator Associate (January 26, 2022)</a>
+  - <a href="https://www.credly.com/badges/18482743-510a-4c47-b4e6-ede3bc5101a5/public_url" target="_blank">Azure Fundamentals (December 17, 2021)</a>
 
   ![](images/microsoft-certified-azure-solutions-architect-expert.1(90x90).png)![](images/microsoft-certified-devops-engineer-expert(90x90).png)
   ![](images/microsoft-certified-azure-administrator-associate.2(90x90).png)![](images/microsoft-certified-azure-developer-associate.1(90x90).png)![](images/microsoft-certified-azure-network-engineer-associate(90x90).png)![](images/microsoft-certified-azure-security-engineer-associate(90x90).png)
