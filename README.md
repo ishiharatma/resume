@@ -131,6 +131,8 @@
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="OCI" src="https://img.shields.io/badge/-OracleCloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img alt="GoogleCloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ### データベース
@@ -141,6 +143,7 @@
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white" />
   <img alt="Apache Solr" src="https://img.shields.io/badge/-Apache%20Solr-D9411E?style=flat-square&logo=Apache%20Solr&logoColor=white" />
+  <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />
 </p>
 
 ### フレームワーク・その他
@@ -150,8 +153,8 @@
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&style=flat">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&style=flat">
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&style=flat" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&style=flat" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white" />
