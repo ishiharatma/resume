@@ -60,6 +60,18 @@
   ![](images/aws-certified-solutions-architect-associate(90x90).png)![](images/aws-certified-sysops-administrator-associate(90x90).png)![](images/aws-certified-developer-associate(90x90).png)
   ![](images/aws-certified-cloud-practitioner(90x90).png)
 
+  - [AWS Cloud Quest](https://aws.amazon.com/jp/training/digital/aws-cloud-quest/)
+    - <a href="https://www.credly.com/badges/b967f1e4-9e6e-46d6-9ffb-cdecb437c761/public_url" target="_blank">AWS Cloud Quest: Cloud Practitioner (January 18, 2024)</a>
+    - <a href="https://www.credly.com/badges/028ffc84-6d7a-4429-844a-8221ac22f2d8/public_url" target="_blank">AWS Cloud Quest: Security (January 19, 2022)</a>
+    - <a href="https://www.credly.com/badges/edc90c52-6bbc-41fa-9ddb-2ccda121132e/public_url" target="_blank">AWS Cloud Quest: Solutions Architect (January 19, 2024)</a>
+    - <a href="https://www.credly.com/badges/bdde8fbc-2236-40c1-a261-576d752248bd/public_url" target="_blank">AWS Cloud Quest: Serverless Developer (January 19, 2024)</a>
+    - <a href="https://www.credly.com/badges/4758de7e-52cc-4791-9507-467d83339965/public_url" target="_blank">AWS Cloud Quest: Data Analytics (January 20, 2024)</a>
+    - <a href="https://www.credly.com/badges/bc5ebe9a-8942-41f4-bf16-4a99cb0f4a7d/public_url" target="_blank">AWS Cloud Quest: Networking (January 22, 2024)</a>
+
+    ![](images/aws-cloud-quest-cloud-practitioner(90x90).png)![](images/aws-cloud-quest-security(90x90).png)
+    ![](images/aws-cloud-quest-solutions-architect(90x90).png)![](images/aws-cloud-quest-serverless-developer(90x90).png)
+    ![](images/aws-cloud-quest-data-analytics(90x90).png)![](images/aws-cloud-quest-networking(90x90).png)
+
 - Oracle
   - <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A64358C41C39B4C58D7E1DABEBE8D4C37E2D5FD3EE83D03E952D0A9301657B1" target="_blank">Oracle Cloud Infrastructure Foundations 2021 Certified Associate (March 29, 2022)</a>
   - ORACLE MASTER Gold Oracle Database 10g (July 9, 2012)
