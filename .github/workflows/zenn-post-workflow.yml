@@ -1,0 +1,30 @@
+name: 'blog feed ci'
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.zenn.outputs.changed }}
+      items: ${{ steps.zenn.outputs.items }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        id: zenn
+        with:
+          url: 'https://zenn.dev/issy/feed'
+          file: 'README.md'
+          start_flag: "<!-- zenn start -->"
+          end_flag: "<!-- zenn end -->"
+      - name: push to master
+        if: steps.zenn.outputs.changed == true
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "docs: update feed"
+          git push

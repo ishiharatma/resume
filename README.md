@@ -188,16 +188,19 @@ TBA
 
 ## 技術記事投稿
 
-- **Zenn**
+### Zenn
 
-  [![Followers](https://badgen.org/img/zenn/issy/followers?style=flat)](https://zenn.dev/issy)[![Articles](https://badgen.org/img/zenn/issy/articles?style=plastic)](https://zenn.dev/issy)[![Books](https://badgen.org/img/zenn/issy/books?style=plastic)](https://zenn.dev/issy?tab=books)
+[![Followers](https://badgen.org/img/zenn/issy/followers?style=flat)](https://zenn.dev/issy)[![Articles](https://badgen.org/img/zenn/issy/articles?style=plastic)](https://zenn.dev/issy)[![Books](https://badgen.org/img/zenn/issy/books?style=plastic)](https://zenn.dev/issy?tab=books)
 
-- [AWS 勉強会資料公開](https://ishiharatma.github.io/aws-study/)
+<!-- zenn start -->
+<!-- zenn end -->
 
-- **GitHub**
+### [AWS 勉強会資料公開](https://ishiharatma.github.io/aws-study/)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiharatma&layout=compact)](https://github.com/ishiharatma/)
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiharatma&show_icons=true)](https://github.com/ishiharatma/)
+### GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiharatma&layout=compact)](https://github.com/ishiharatma/)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiharatma&show_icons=true)](https://github.com/ishiharatma/)
 
 ---
 
