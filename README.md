@@ -48,7 +48,7 @@
   - データベーススペシャリスト試験 (June 20, 2014)
   - 応用情報技術者試験 (June 15, 2012)
   - 基本情報技術者試験 (November 19, 2002)
-- AWS認定
+- AWS認定  Complete!!
   - <a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank">AWS Certified Solutions Architect – Professional (October 26, 2022)</a>
   - <a href="https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url" target="_blank">AWS Certified DevOps Engineer – Professional (May 31, 2023)</a>
   - <a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank">AWS Certified Solutions Architect – Associate (August 24, 2022)</a>
@@ -63,22 +63,23 @@
 
 - AWS 認定 Specialty
   - <a href="https://www.credly.com/badges/7fa93a22-d41f-4bb4-b448-6a2eed1bd848/public_url" target="_blank">AWS Certified Security – Specialty (January 22, 2024)</a>
+  - <a href="https://www.credly.com/badges/57be108d-6997-4334-aa63-257c4fb43a7e/public_url" target="_blank">AWS Certified Database – Specialty (February 15, 2024)</a>
 
-  ![](images/aws-certified-security-specialty(90x90).png)
+  ![](images/aws-certified-security-specialty(90x90).png)![](images/aws-certified-database-specialty(90x90).png)
 
-  - [AWS Cloud Quest](https://aws.amazon.com/jp/training/digital/aws-cloud-quest/) Complete!!
-    - <a href="https://www.credly.com/badges/b967f1e4-9e6e-46d6-9ffb-cdecb437c761/public_url" target="_blank">AWS Cloud Quest: Cloud Practitioner (January 18, 2024)</a>
-    - <a href="https://www.credly.com/badges/028ffc84-6d7a-4429-844a-8221ac22f2d8/public_url" target="_blank">AWS Cloud Quest: Security (January 19, 2022)</a>
-    - <a href="https://www.credly.com/badges/edc90c52-6bbc-41fa-9ddb-2ccda121132e/public_url" target="_blank">AWS Cloud Quest: Solutions Architect (January 19, 2024)</a>
-    - <a href="https://www.credly.com/badges/bdde8fbc-2236-40c1-a261-576d752248bd/public_url" target="_blank">AWS Cloud Quest: Serverless Developer (January 19, 2024)</a>
-    - <a href="https://www.credly.com/badges/4758de7e-52cc-4791-9507-467d83339965/public_url" target="_blank">AWS Cloud Quest: Data Analytics (January 20, 2024)</a>
-    - <a href="https://www.credly.com/badges/bc5ebe9a-8942-41f4-bf16-4a99cb0f4a7d/public_url" target="_blank">AWS Cloud Quest: Networking (January 22, 2024)</a>
-    - <a href="https://www.credly.com/badges/78b39aff-083b-465a-a61a-38daff1d648d/public_url" target="_blank">AWS Cloud Quest: Machine Learning (January 24, 2024)</a>
+- [AWS Cloud Quest](https://aws.amazon.com/jp/training/digital/aws-cloud-quest/) Complete!!
+  - <a href="https://www.credly.com/badges/b967f1e4-9e6e-46d6-9ffb-cdecb437c761/public_url" target="_blank">AWS Cloud Quest: Cloud Practitioner (January 18, 2024)</a>
+  - <a href="https://www.credly.com/badges/028ffc84-6d7a-4429-844a-8221ac22f2d8/public_url" target="_blank">AWS Cloud Quest: Security (January 19, 2022)</a>
+  - <a href="https://www.credly.com/badges/edc90c52-6bbc-41fa-9ddb-2ccda121132e/public_url" target="_blank">AWS Cloud Quest: Solutions Architect (January 19, 2024)</a>
+  - <a href="https://www.credly.com/badges/bdde8fbc-2236-40c1-a261-576d752248bd/public_url" target="_blank">AWS Cloud Quest: Serverless Developer (January 19, 2024)</a>
+  - <a href="https://www.credly.com/badges/4758de7e-52cc-4791-9507-467d83339965/public_url" target="_blank">AWS Cloud Quest: Data Analytics (January 20, 2024)</a>
+  - <a href="https://www.credly.com/badges/bc5ebe9a-8942-41f4-bf16-4a99cb0f4a7d/public_url" target="_blank">AWS Cloud Quest: Networking (January 22, 2024)</a>
+  - <a href="https://www.credly.com/badges/78b39aff-083b-465a-a61a-38daff1d648d/public_url" target="_blank">AWS Cloud Quest: Machine Learning (January 24, 2024)</a>
 
-    ![](images/aws-cloud-quest-cloud-practitioner(90x90).png)![](images/aws-cloud-quest-security(90x90).png)
-    ![](images/aws-cloud-quest-solutions-architect(90x90).png)![](images/aws-cloud-quest-serverless-developer(90x90).png)
-    ![](images/aws-cloud-quest-data-analytics(90x90).png)![](images/aws-cloud-quest-networking(90x90).png)
-    ![](images/aws-cloud-quest-machine-learning(90x90).png)
+  ![](images/aws-cloud-quest-cloud-practitioner(90x90).png)![](images/aws-cloud-quest-security(90x90).png)
+  ![](images/aws-cloud-quest-solutions-architect(90x90).png)![](images/aws-cloud-quest-serverless-developer(90x90).png)
+  ![](images/aws-cloud-quest-data-analytics(90x90).png)![](images/aws-cloud-quest-networking(90x90).png)
+  ![](images/aws-cloud-quest-machine-learning(90x90).png)
 
 - Oracle
   - <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A64358C41C39B4C58D7E1DABEBE8D4C37E2D5FD3EE83D03E952D0A9301657B1" target="_blank">Oracle Cloud Infrastructure Foundations 2021 Certified Associate (March 29, 2022)</a>
