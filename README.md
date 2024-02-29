@@ -64,8 +64,10 @@
 - AWS 認定 Specialty
   - <a href="https://www.credly.com/badges/7fa93a22-d41f-4bb4-b448-6a2eed1bd848/public_url" target="_blank">AWS Certified Security – Specialty (January 22, 2024)</a>
   - <a href="https://www.credly.com/badges/57be108d-6997-4334-aa63-257c4fb43a7e/public_url" target="_blank">AWS Certified Database – Specialty (February 15, 2024)</a>
+  - <a href="https://www.credly.com/badges/84364214-cac5-4050-841f-6ffac4f7f72f/public_url" target="_blank">AWS Certified Data Analytics – Specialty (February 29, 2024)</a>
 
   ![](images/aws-certified-security-specialty(90x90).png)![](images/aws-certified-database-specialty(90x90).png)
+  ![](images/aws-certified-data-analytics-specialty(90x90).png)
 
 - [AWS Cloud Quest](https://aws.amazon.com/jp/training/digital/aws-cloud-quest/) Complete!!
   - <a href="https://www.credly.com/badges/b967f1e4-9e6e-46d6-9ffb-cdecb437c761/public_url" target="_blank">AWS Cloud Quest: Cloud Practitioner (January 18, 2024)</a>
