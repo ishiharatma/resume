@@ -48,14 +48,13 @@
   - データベーススペシャリスト試験 (June 20, 2014)
   - 応用情報技術者試験 (June 15, 2012)
   - 基本情報技術者試験 (November 19, 2002)
-- AWS認定  Complete!!
+- AWS認定
   - <a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank">AWS Certified Solutions Architect – Professional (October 26, 2022)</a>
   - <a href="https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url" target="_blank">AWS Certified DevOps Engineer – Professional (May 31, 2023)</a>
   - <a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank">AWS Certified Solutions Architect – Associate (August 24, 2022)</a>
   - <a href="https://www.credly.com/badges/7d49f9af-18c3-4dde-853a-9ea33fd00d78/public_url" target="_blank">AWS Certified SysOps Administrator – Associate (April 27, 2023)</a>
   - <a href="https://www.credly.com/badges/fa1caa18-e8ea-415e-8d76-4b2a35afe1c3/public_url" target="_blank">AWS Certified Developer – Associate (February 15, 2023)</a>
   - <a href="https://www.credly.com/badges/5e92182e-b71e-43ab-9b76-e020df40d0e9/public_url" target="_blank">AWS Certified Cloud Practitioner (November 25, 2022)</a>
-
 
   ![](images/aws-certified-solutions-architect-professional(90x90).png)![](images/aws-certified-devops-engineer-professional(90x90).png)
   ![](images/aws-certified-solutions-architect-associate(90x90).png)![](images/aws-certified-sysops-administrator-associate(90x90).png)![](images/aws-certified-developer-associate(90x90).png)
@@ -67,10 +66,11 @@
   - <a href="https://www.credly.com/badges/84364214-cac5-4050-841f-6ffac4f7f72f/public_url" target="_blank">AWS Certified Data Analytics – Specialty (February 29, 2024)</a>
   - <a href="https://www.credly.com/badges/89723402-7735-417d-a106-f710c2f3b598/public_url" target="_blank">AWS Certified Advanced Networking – Specialty (March 7, 2024)</a>
   - <a href="https://www.credly.com/badges/04670fe9-97f9-4762-b8ed-26ab5dc2faeb/public_url" target="_blank">AWS Certified Machine Learning – Specialty (March 15, 2024)</a>
+  - <a href="https://www.credly.com/badges/f5977f16-8340-4fe7-b767-f4332a3b50aa/public_url" target="_blank">AWS Certified SAP on AWS - Specialty (March 19, 2024)</a>
 
   ![](images/aws-certified-security-specialty(90x90).png)![](images/aws-certified-database-specialty(90x90).png)
   ![](images/aws-certified-data-analytics-specialty(90x90).png)![](images/aws-certified-advanced-networking-specialty(90x90).png)
-  ![](images/aws-certified-machine-learning-specialty(90x90).png)
+  ![](images/aws-certified-machine-learning-specialty(90x90).png)![](images/aws-certified-sap-on-aws-specialty(90x90).png)
 
 - [AWS Cloud Quest](https://aws.amazon.com/jp/training/digital/aws-cloud-quest/) Complete!!
   - <a href="https://www.credly.com/badges/b967f1e4-9e6e-46d6-9ffb-cdecb437c761/public_url" target="_blank">AWS Cloud Quest: Cloud Practitioner (January 18, 2024)</a>
