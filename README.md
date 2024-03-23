@@ -4,10 +4,24 @@
 
 ---
 
+## 基本情報<!-- omit in toc -->
+
+| key      | value      |
+|----------|------------|
+| Name     | Ishihara   |
+| Birthday | 1979/09/29 |
+
+## 各種アカウント<!-- omit in toc -->
+
+<p>
+  <a href="https://github.com/ishiharatma" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub|%20ishiharatma-181717?logo=github&style=flat&logoColor=white"></a>
+  <a href="https://zenn.dev/issy" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/-Zenn|%20issy-3EA8FF?logo=Zenn&style=flat&logoColor=white"></a>
+  <!--<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&style=flat&logoColor=white">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=flat&logoColor=white">-->
+</p>
+
 ## Contents<!-- omit in toc -->
 
-- [基本情報](#基本情報)
-- [各種アカウント](#各種アカウント)
 - [保有スキル](#保有スキル)
 - [保有資格](#保有資格)
 - [技術スタック](#技術スタック)
@@ -24,22 +38,6 @@
   - [AWS 勉強会資料公開](#aws-勉強会資料公開)
   - [GitHub](#github)
 - [その他](#その他)
-
-## 基本情報
-
-| key      | value      |
-|----------|------------|
-| Name     | Ishihara   |
-| Birthday | 1979/09/29 |
-
-## 各種アカウント
-
-<p>
-  <a href="https://github.com/ishiharatma" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub|%20ishiharatma-181717?logo=github&style=flat&logoColor=white"></a>
-  <a href="https://zenn.dev/issy" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/-Zenn|%20issy-3EA8FF?logo=Zenn&style=flat&logoColor=white"></a>
-  <!--<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&style=flat&logoColor=white">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&style=flat&logoColor=white">-->
-</p>
 
 ---
 
