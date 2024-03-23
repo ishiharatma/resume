@@ -219,11 +219,11 @@ TBA
 [![Followers](https://badgen.org/img/zenn/issy/followers?style=flat)](https://zenn.dev/issy)[![Articles](https://badgen.org/img/zenn/issy/articles?style=plastic)](https://zenn.dev/issy)[![Books](https://badgen.org/img/zenn/issy/books?style=plastic)](https://zenn.dev/issy?tab=books)
 
 <!-- zenn start -->
+- Mar 23 - [【実例】Amazon API Gateway を S3 プロキシにして簡易スタブ API でテスト効率化！](https://zenn.dev/issy/articles/zenn-apigw-s3-stub-tried-it)
 - Mar 23 - [【初心者向け】AWS Direct Connect 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-directconnect-overview)
 - Mar 23 - [【初心者向け】AWS CloudFormation 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cfn-overview)
 - Mar 02 - [【実例】AWS CloudFormation IaC ジェネレーターで爆速 IaC 化](https://zenn.dev/issy/articles/zenn-cfn-iac-generator-tried-it)
 - Jan 24 - [【初心者向け】AWS Security Hub 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-securityhub-overview)
-- Jan 24 - [【初心者向け】Aamazon GuardDuty 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-guardduty-overview)
 <!-- zenn end -->
 
 ### [AWS 勉強会資料公開](https://ishiharatma.github.io/aws-study/)
