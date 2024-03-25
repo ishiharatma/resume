@@ -6,10 +6,11 @@
 
 ## 基本情報<!-- omit in toc -->
 
-| key      | value      |
-|----------|------------|
-| Name     | Ishihara   |
-| Birthday | 1979/09/29 |
+| key      | value                |
+| -------- | -------------------- |
+| Name     | TOMOAKI Ishihara     |
+| Birthday | 1979/09/29           |
+| Company  | [株式会社NTTデータCCS](https://www.nttdata-ccs.co.jp/) |
 
 ## 各種アカウント<!-- omit in toc -->
 
@@ -77,8 +78,8 @@
   - <a href="https://www.credly.com/badges/5e92182e-b71e-43ab-9b76-e020df40d0e9/public_url" target="_blank">AWS Certified Cloud Practitioner (November 25, 2022)</a>
 
   ![](images/aws-certified-solutions-architect-professional(90x90).png)![](images/aws-certified-devops-engineer-professional(90x90).png)
-  ![](images/aws-certified-solutions-architect-associate(90x90).png)![](images/aws-certified-sysops-administrator-associate(90x90).png)![](images/aws-certified-developer-associate(90x90).png)
-  ![](images/aws-certified-cloud-practitioner(90x90).png)
+  ![](images/aws-certified-solutions-architect-associate(90x90).png)![](images/aws-certified-sysops-administrator-associate(90x90).png)
+  ![](images/aws-certified-developer-associate(90x90).png)![](images/aws-certified-cloud-practitioner(90x90).png)
 
 - AWS 認定 Specialty
   - <a href="https://www.credly.com/badges/7fa93a22-d41f-4bb4-b448-6a2eed1bd848/public_url" target="_blank">AWS Certified Security – Specialty (January 22, 2024)</a>
@@ -236,5 +237,3 @@ TBA
 ---
 
 ## その他
-
-
