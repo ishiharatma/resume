@@ -220,11 +220,11 @@ TBA
 [![Followers](https://badgen.org/img/zenn/issy/followers?style=flat)](https://zenn.dev/issy)[![Articles](https://badgen.org/img/zenn/issy/articles?style=plastic)](https://zenn.dev/issy)[![Books](https://badgen.org/img/zenn/issy/books?style=plastic)](https://zenn.dev/issy?tab=books)
 
 <!-- zenn start -->
+- Jun 03 - [【初心者向け】AWS Transit Gateway 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-transitgw-overview)
 - May 08 - [【アップデート】自動的に割り当てられたパブリック IPv4 アドレスの動的な削除と追加をサポート](https://zenn.dev/issy/articles/zenn-ec2-update-remove-public-ip)
 - Apr 22 - [【実例】Python 3.12用psycopg2のLambdaレイヤーを作成する](https://zenn.dev/issy/articles/zenn-lambda-layer-psycopg2-tried-it)
 - Apr 09 - [あれ？リソースがなくなっている！？とならないためにデフォルトリージョンを](https://zenn.dev/issy/articles/zenn-aws-account-default-region)
 - Apr 05 - [【アップデート】新しい CloudWatch メトリクス MetadataNoTokenRejected が利用できるようになりました](https://zenn.dev/issy/articles/zenn-ec2-imdsv2-only)
-- Mar 29 - [【やってみた】Amazon Bedrockを利用した画像生成アプリケーションをAWS CDKで開発してみた！](https://zenn.dev/issy/articles/zenn-bedrock-apigw-tried-it)
 <!-- zenn end -->
 
 ### [AWS 勉強会資料公開](https://ishiharatma.github.io/aws-study/)
