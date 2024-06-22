@@ -68,8 +68,9 @@
   - データベーススペシャリスト試験 (June 20, 2014)
   - 応用情報技術者試験 (June 15, 2012)
   - 基本情報技術者試験 (November 19, 2002)
-- [2024 Japan AWS All Certifications Engineersにエントリー中！](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers-criteria/)
 - AWS認定
+  - <a href="https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/" target="_blank" alt="Open New Window"><img src="images/2024-Japan-AWS-Top-Engineers-1024x307.png" alt="2024 Japan AWS Top Engineers" style="width:40%;" /></a>
+  - <a href="https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/" target="_blank" alt="Open New Window"><img src="images/2024-All-Certs-Logo.png" alt="2024 Japan AWS Top Engineers" style="width:40%;" /></a>
   - <a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank">AWS Certified Solutions Architect – Professional (October 26, 2022)</a>
   - <a href="https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url" target="_blank">AWS Certified DevOps Engineer – Professional (May 31, 2023)</a>
   - <a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank">AWS Certified Solutions Architect – Associate (August 24, 2022)</a>
