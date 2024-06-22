@@ -63,9 +63,9 @@
 
 ## 外部認定
 
-<a href="https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/" target="_blank" alt="Open New Window"><img src="images/2024-Japan-AWS-Top-Engineers-1024x307.png" alt="2024 Japan AWS Top Engineers" style="width:40%;" /></a>
+<a href="https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/" target="_blank" alt="Open New Window"><img src="images/2024-Japan-AWS-Top-Engineers-1024x307.png" alt="2024 Japan AWS Top Engineers" style="width:40%;background: #FFFFFF;" /></a>
 
-<a href="https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/" target="_blank" alt="Open New Window"><img src="images/2024-All-Certs-Logo.png" alt="2024 Japan AWS Top Engineers" style="width:40%;" /></a>
+<a href="https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/" target="_blank" alt="Open New Window"><img src="images/2024-All-Certs-Logo.png" alt="2024 Japan AWS Top Engineers" style="width:40%;background: #FFFFFF;" /></a>
 
 ## 保有資格
 
