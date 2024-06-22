@@ -76,7 +76,6 @@
   - 応用情報技術者試験 (June 15, 2012)
   - 基本情報技術者試験 (November 19, 2002)
 - AWS認定
-
   - <a href="https://www.credly.com/badges/bad38ea2-4970-4cc6-ad8d-ff396d703c1e/public_url" target="_blank">AWS Certified Solutions Architect – Professional (October 26, 2022)</a>
   - <a href="https://www.credly.com/badges/2008cdbf-84f7-40f1-9618-29a31e5d08ab/public_url" target="_blank">AWS Certified DevOps Engineer – Professional (May 31, 2023)</a>
   - <a href="https://www.credly.com/badges/9a95c5e3-5586-41f3-a310-dc56a8d464a9/public_url" target="_blank">AWS Certified Solutions Architect – Associate (August 24, 2022)</a>
