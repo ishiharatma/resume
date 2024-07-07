@@ -241,6 +241,8 @@ TBA
     <tr>
       <td><b>Projects</b></td>
       <td><b>Lang / FW</b></td>
+      <td><b>Commits</b></td>
+      <td><b>Last Commit</b></td>
       <td><b>Stars</b></td>
       <td><b>Forks</b></td>
       <td><b>Issues</b></td>
@@ -250,6 +252,8 @@ TBA
     <tr>
       <td><a href="https://github.com/ishiharatma/aws-study"><b>aws-study</b></a></td>
       <td>-</td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/ishiharatma/aws-study?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/ishiharatma/aws-study?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ishiharatma/aws-study?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ishiharatma/aws-study?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ishiharatma/aws-study?style=flat-square&labelColor=343b41"/></td>
@@ -257,6 +261,8 @@ TBA
     <tr>
       <td><a href="https://github.com/ishiharatma/aws-cdk-cdp"><b>aws-cdk-cdp</b></a></td>
       <td>AWS CDK</td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/ishiharatma/aws-cdk-cdp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/ishiharatma/aws-cdk-cdp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ishiharatma/aws-cdk-cdp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ishiharatma/aws-cdk-cdp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ishiharatma/aws-cdk-cdp?style=flat-square&labelColor=343b41"/></td>
@@ -264,6 +270,8 @@ TBA
     <tr>
       <td><a href="https://github.com/ishiharatma/aws-cdk-devops-toolkit"><b>aws-cdk-devops-toolkit</b></a></td>
       <td>AWS CDK</td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/ishiharatma/aws-cdk-devops-toolkit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/ishiharatma/aws-cdk-devops-toolkit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ishiharatma/aws-cdk-devops-toolkit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ishiharatma/aws-cdk-devops-toolkit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ishiharatma/aws-cdk-devops-toolkit?style=flat-square&labelColor=343b41"/></td>
