@@ -12,7 +12,7 @@ jobs:
       changed: ${{ steps.zenn.outputs.changed }}
       items: ${{ steps.zenn.outputs.items }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: sarisia/actions-readme-feed@v1
         id: zenn
         with:
