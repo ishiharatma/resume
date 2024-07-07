@@ -39,6 +39,8 @@
   - [Zenn](#zenn)
   - [AWS 勉強会資料公開](#aws-勉強会資料公開)
   - [GitHub](#github)
+  - [主要リポジトリ(AWS関連)](#主要リポジトリaws関連)
+  - [主要リポジトリ(その他)](#主要リポジトリその他)
 - [その他](#その他)
 
 ---
@@ -231,6 +233,45 @@ TBA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiharatma&layout=compact)](https://github.com/ishiharatma/)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiharatma&show_icons=true)](https://github.com/ishiharatma/)
+
+### 主要リポジトリ(AWS関連)
+
+<table>
+  <thead>
+    <tr>
+      <td><b>Projects</b></td>
+      <td><b>Lang / FW</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
+      <td><b>Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ishiharatma/aws-study"><b>aws-study</b></a></td>
+      <td>-</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ishiharatma/aws-study?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ishiharatma/aws-study?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ishiharatma/aws-study?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ishiharatma/aws-cdk-cdp"><b>aws-cdk-cdp</b></a></td>
+      <td>AWS CDK</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ishiharatma/aws-cdk-cdp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ishiharatma/aws-cdk-cdp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ishiharatma/aws-cdk-cdp?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ishiharatma/aws-cdk-devops-toolkit"><b>aws-cdk-devops-toolkit</b></a></td>
+      <td>AWS CDK</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ishiharatma/aws-cdk-devops-toolkit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ishiharatma/aws-cdk-devops-toolkit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ishiharatma/aws-cdk-devops-toolkit?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+### 主要リポジトリ(その他)
 
 ---
 

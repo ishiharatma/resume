@@ -1,0 +1,20 @@
+name: create issue
+
+on:
+  schedule:
+    - cron:  '0 0 1 */3 *'
+jobs:
+  build:
+    name: create issue
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - Create Issue
+        run: |
+          gh issue create \
+          -- title "" \
+          -- body "$(cat ${{ env.TEMPLATE_PATH }})"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TEMPLATE_PATH: ./.github/ISSUE_TEMPLATE/template.md
