@@ -260,7 +260,7 @@ TBA
     </tr>
     <tr>
       <td><a href="https://github.com/ishiharatma/aws-cdk-cdp"><b>aws-cdk-cdp</b></a></td>
-      <td>AWS CDK</td>
+      <td>AWS CDK/<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/ishiharatma/aws-cdk-cdp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/ishiharatma/aws-cdk-cdp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ishiharatma/aws-cdk-cdp?style=flat-square&labelColor=343b41"/></td>
@@ -269,7 +269,7 @@ TBA
     </tr>
     <tr>
       <td><a href="https://github.com/ishiharatma/aws-cdk-devops-toolkit"><b>aws-cdk-devops-toolkit</b></a></td>
-      <td>AWS CDK</td>
+      <td>AWS CDK/<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/ishiharatma/aws-cdk-devops-toolkit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/ishiharatma/aws-cdk-devops-toolkit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ishiharatma/aws-cdk-devops-toolkit?style=flat-square&labelColor=343b41"/></td>
@@ -278,7 +278,7 @@ TBA
     </tr>
     <tr>
       <td><a href="https://github.com/ishiharatma/aws-cdk-account-initialization"><b>aws-cdk-account-initialization</b></a></td>
-      <td>AWS CDK</td>
+      <td>AWS CDK/<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/ishiharatma/aws-cdk-account-initialization?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/ishiharatma/aws-cdk-account-initialization?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ishiharatma/aws-cdk-account-initialization?style=flat-square&labelColor=343b41"/></td>
@@ -287,7 +287,7 @@ TBA
     </tr>
     <tr>
       <td><a href="https://github.com/ishiharatma/aws-cfn"><b>aws-cfn</b></a></td>
-      <td>AWS CDK</td>
+      <td>AWS CloudFormation/<img alt="YAML" src="https://img.shields.io/badge/-yaml-007ACC?style=flat&logo=yaml&logoColor=white" /></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/ishiharatma/aws-cfn?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/ishiharatma/aws-cfn?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ishiharatma/aws-cfn?style=flat-square&labelColor=343b41"/></td>
@@ -314,7 +314,7 @@ TBA
   <tbody>
     <tr>
       <td><a href="https://github.com/ishiharatma/docker"><b>docker</b></a></td>
-      <td>AWS CDK</td>
+      <td>-</td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/t/ishiharatma/docker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/ishiharatma/docker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ishiharatma/docker?style=flat-square&labelColor=343b41"/></td>
