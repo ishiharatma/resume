@@ -10,10 +10,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - Create Issue
+      - name: Create Issue
         run: |
           gh issue create \
-          -- title "" \
           -- body "$(cat ${{ env.TEMPLATE_PATH }})"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
